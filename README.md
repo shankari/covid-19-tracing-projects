@@ -19,7 +19,7 @@
 | [COVID-19 Track](https://covid-19-track.com/) |  | 
 | [COVID Symptom Tracker](https://covid.joinzoe.com/) | |
 | [Coronastatus](https://github.com/BustByte/coronastatus) | Open source project, can be launched country by country |
-
+| [Corona data scraper](https://coronadatascraper.com/#home) | Scrapes from verified data sources |
 
 ## Privacy-preserving matching
 
@@ -27,6 +27,14 @@
 |-----------------------|--------|----------------|------------------|-------|
 | [Enigma SafeTrace](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) | https://github.com/enigmampc/SafeTrace | secure enclaves | https://github.com/enigmampc/SafeTrace/blob/master/CONTRIBUTE.md | |
 | [OpenMined](http://openmined.org) | ??? | secure MPC | ??? | |
+
+## Analysis on existing big data sources
+
+| Name and website link | Location  | Notes |
+|-----------------------|-----------|-------|
+| [Unacast](https://www.washingtonpost.com/technology/2020/03/24/social-distancing-maps-cellphone-location/) | US |  |
+| [Cuebiq](https://www.cuebiq.com/about/data-for-good/) | Italy | through "data for social good" program | 
+| [Cell tower companies?](https://twitter.com/nikete/status/1242820006938914822) | US | No additional details |
 
 
 #### How can this site help?
