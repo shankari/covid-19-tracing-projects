@@ -14,6 +14,7 @@
 
 ## Self-reported public database
 | Name and website link | Notes |
+|-----------------------|-------|
 | [AITIA app](https://aitia.app/user/register#) |  |
 | [COVID-19 Track](https://covid-19-track.com/) |  | 
 | [COVID Symptom Tracker](https://covid.joinzoe.com/) | |
@@ -23,6 +24,7 @@
 ## Privacy-preserving matching
 
 | Name and website link | github | technique used | volunteer signup | Notes |
+|-----------------------|--------|----------------|------------------|-------|
 | [Enigma SafeTrace](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) | https://github.com/enigmampc/SafeTrace | secure enclaves | https://github.com/enigmampc/SafeTrace/blob/master/CONTRIBUTE.md | |
 
 
