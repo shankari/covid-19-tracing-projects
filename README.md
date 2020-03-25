@@ -26,6 +26,7 @@
 | Name and website link | github | technique used | volunteer signup | Notes |
 |-----------------------|--------|----------------|------------------|-------|
 | [Enigma SafeTrace](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) | https://github.com/enigmampc/SafeTrace | secure enclaves | https://github.com/enigmampc/SafeTrace/blob/master/CONTRIBUTE.md | |
+| [OpenMined](http://openmined.org) | ??? | secure MPC | ??? | |
 
 
 #### How can this site help?
