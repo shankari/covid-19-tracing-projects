@@ -1,6 +1,19 @@
-This site is a crowdsourced list of projects related to COVID-19 contact tracing using smartphones.
-The goal of contact tracing is to identify the contacts of people who have tested positive for COVID-19 and to advise them to self-quarantine.
-Large scale, highly accurate contact tracing could control the spread of epidemics and reduce the need for societal lockdowns.
+- This site is a crowdsourced list of projects related to COVID-19 contact tracing using smartphones.
+- The goal of contact tracing is to identify the contacts of people who have tested positive for COVID-19 and to advise them to self-quarantine.
+- Large scale, highly accurate contact tracing could control the spread of epidemics and reduce the need for societal lockdowns.
+
+## Tracking apps
+
+| Name and website link | github            | sensors used      | volunteer signup       | Notes |
+|-----------------------|-------------------|-------------------|------------------------|-------|
+| [SafePaths](http://safepaths.mit.edu/) | ???? | location      | http://forms.gle/3fzhfJkq8kbF7uf89 | First to release |
+| [CovidWatch](https://www.covid-watch.org/) | https://github.com/covid19risk | BLE         | https://www.covid-watch.org/collaborate |   |
+| [WHO App](https://spectrum.ieee.org/the-human-os/biomedical/devices/who-official-coronavirus-app-waze-covid19) | https://github.com/WorldHealthOrganization/ | None so far | https://github.com/WorldHealthOrganization/app/blob/master/docs/ONBOARDING.md | | 
+
+## Privacy-preserving matching
+
+| Name and website link | github | technique used | volunteer signup | Notes |
+| [Enigma SafeTrace](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) | https://github.com/enigmampc/SafeTrace | secure enclaves | https://github.com/enigmampc/SafeTrace/blob/master/CONTRIBUTE.md | |
 
 #### How can this site help?
 ------
@@ -18,14 +31,6 @@ This list of projects has two benefits:
 - If you would like to help in maintaining this site
   - please file an issue expressing interest a link to your linkedin page
   
-
-
-| Name and website link | github            | sensors used      | volunteer signup       | Notes |
-|-----------------------|-------------------|-------------------|------------------------|-------|
-| [SafePaths](http://safepaths.mit.edu/) | ???? | location      | http://forms.gle/3fzhfJkq8kbF7uf89 | First to release |
-| [CovidWatch](https://www.covid-watch.org/) | https://github.com/covid19risk | BLE         | https://www.covid-watch.org/collaborate |   |
-| [WHO App](https://spectrum.ieee.org/the-human-os/biomedical/devices/who-official-coronavirus-app-waze-covid19) | https://github.com/WorldHealthOrganization/ | None so far | https://github.com/WorldHealthOrganization/app/blob/master/docs/ONBOARDING.md | | 
-
 
 #### Privacy policy
 ------
