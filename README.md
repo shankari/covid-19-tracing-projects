@@ -1,3 +1,5 @@
+![Check Markdown links](https://github.com/shankari/covid-19-tracing-projects/workflows/Check%20Markdown%20links/badge.svg)
+
 - This site is a crowdsourced list of projects related to COVID-19 contact tracing using smartphones.
 - The goal of contact tracing is to identify the contacts of people who have tested positive for COVID-19 and to advise them to self-quarantine.
 - Large scale, highly accurate contact tracing could control the spread of epidemics and reduce the need for societal lockdowns.
