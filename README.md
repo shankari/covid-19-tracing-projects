@@ -11,6 +11,7 @@
 | [WHO App](https://spectrum.ieee.org/the-human-os/biomedical/devices/who-official-coronavirus-app-waze-covid19) | https://github.com/WorldHealthOrganization/ | None so far | https://github.com/WorldHealthOrganization/app/blob/master/docs/ONBOARDING.md | | 
 | [Hamagen, Israel MOH](https://medium.com/proferosec-osm/hamagen-application-fighiting-the-corona-virus-4ecf55eb4f7c) | https://github.com/MohGovIL/hamagen-react-native/ | location | https://github.com/MohGovIL/hamagen-react-native/blob/master/CONTRIBUTING.md | |
 | [DEGRAT](https://github.com/degregat/ppdt) | https://github.com/degregat/ppdt | BLE | ??? | | 
+| [Covid-FLutter](https://classworkdecjan.blogspot.com/2020/03/covid-project.html) | https://github.com/TheSciFiMed/Covid-FLutter | location      | http://bit.ly/Covid-Slack | |
 
 ## Self-reported public database
 | Name and website link | Notes |
