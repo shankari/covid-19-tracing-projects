@@ -1,3 +1,5 @@
+![Check Markdown links](https://github.com/shankari/covid-19-tracing-projects/workflows/Check%20Markdown%20links/badge.svg)
+
 - This site is a crowdsourced list of projects related to COVID-19 contact tracing using smartphones.
 - The goal of contact tracing is to identify the contacts of people who have tested positive for COVID-19 and to advise them to self-quarantine.
 - Large scale, highly accurate contact tracing could control the spread of epidemics and reduce the need for societal lockdowns.
@@ -7,7 +9,7 @@
 | Name and website link | github            | sensors used      | volunteer signup       | Notes |
 |-----------------------|-------------------|-------------------|------------------------|-------|
 | [SafePaths](http://safepaths.mit.edu/) | ???? | location      | http://forms.gle/3fzhfJkq8kbF7uf89 | |
-| [CovidWatch](https://www.covid-watch.org/) | https://github.com/covid19risk | BLE         | https://www.covid-watch.org/collaborate |   |
+| [CovidWatch](https://www.covid-watch.org/) | https://github.com/covid19risk | BLE         | Scroll to the end of https://www.covid-watch.org/ | Direct link to collaborate page doesn't work because of missing key. Google analytics?  |
 | [WHO App](https://spectrum.ieee.org/the-human-os/biomedical/devices/who-official-coronavirus-app-waze-covid19) | https://github.com/WorldHealthOrganization/ | None so far | https://github.com/WorldHealthOrganization/app/blob/master/docs/ONBOARDING.md | | 
 | [Hamagen, Israel MOH](https://medium.com/proferosec-osm/hamagen-application-fighiting-the-corona-virus-4ecf55eb4f7c) | https://github.com/MohGovIL/hamagen-react-native/ | location | https://github.com/MohGovIL/hamagen-react-native/blob/master/CONTRIBUTING.md | |
 | [DEGRAT](https://github.com/degregat/ppdt) | https://github.com/degregat/ppdt | BLE | ??? | | 
