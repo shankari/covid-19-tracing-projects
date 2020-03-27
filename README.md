@@ -20,7 +20,7 @@
 | [Covid-FLutter](https://classworkdecjan.blogspot.com/2020/03/covid-project.html) | https://github.com/TheSciFiMed/Covid-FLutter | location      | http://bit.ly/Covid-Slack | |
 
 
-## Self-reported public database
+## Self-reported public database creation
 
 | Name and website link | Notes |
 |-----------------------|-------|
@@ -56,6 +56,7 @@
 | [Unacast](https://www.washingtonpost.com/technology/2020/03/24/social-distancing-maps-cellphone-location/) | US |  |
 | [Cuebiq](https://www.cuebiq.com/about/data-for-good/) | Italy | through "data for social good" program | 
 | [Cell tower companies?](https://twitter.com/nikete/status/1242820006938914822) | US | No additional details |
+| [NYTimes dataset](https://github.com/nytimes/covid-19-data) | US | Public dataset! Woo! |
 
 
 #### How can this site help?
