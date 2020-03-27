@@ -29,6 +29,10 @@
 | [COVID Symptom Tracker](https://covid.joinzoe.com/) | |
 | [Coronastatus](https://github.com/BustByte/coronastatus) | Open source project, can be launched country by country |
 | [Corona data scraper](https://coronadatascraper.com/#home) | Scrapes from verified data sources |
+| [Fever map](https://gitlab.com/fevermap/fevermap/-/issues/1) | also has list of other similar projects, some of which are listed below |
+| [Sneeze map](https://sneezemap.com/) | Also incorporates data from other sources |
+| [Ghana health services app](https://play.google.com/store/apps/details?id=com.kt.gepp.and) | Ghana Ministry of Health | 
+
 
 ## Self-Diagnostics and Treatment Recommendations by Public Health Authorties
 
