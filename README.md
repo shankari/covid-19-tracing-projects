@@ -37,6 +37,7 @@
 ## Self-Diagnostics and Treatment Recommendations by Public Health Authorties
 
 | Name and website link | Notes |
+|-----------------------|-------|
 | [Covapp](https://covapp.charite.de/) | Questionnaire in EN /DE, can be combined with app/database for self-reporting |
 
 
