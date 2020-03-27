@@ -62,6 +62,7 @@
 ## Scholarly Publications and Other Research
 
 | Date | Title |
+|------|-------|
 | 20 Mar | [Contact Tracing Mobile Apps for COVID-19: Privacy Considerations and Related Trade-offs](https://arxiv.org/abs/2003.11511) |
 | 19 Mar | [Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic](https://arxiv.org/abs/2003.08567) |
 | 10 Feb | [Beyond R0: the important of contact tracing when predicting epidemics](https://arxiv.org/abs/2002.04004) |
