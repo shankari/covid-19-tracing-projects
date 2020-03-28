@@ -18,6 +18,7 @@
 | [Hamagen, Israel MOH](https://medium.com/proferosec-osm/hamagen-application-fighiting-the-corona-virus-4ecf55eb4f7c) | https://github.com/MohGovIL/hamagen-react-native/ | location | https://github.com/MohGovIL/hamagen-react-native/blob/master/CONTRIBUTING.md | |
 | [DEGRAT](https://github.com/degregat/ppdt) | https://github.com/degregat/ppdt | BLE | ??? | | 
 | [Covid-FLutter](https://classworkdecjan.blogspot.com/2020/03/covid-project.html) | https://github.com/TheSciFiMed/Covid-FLutter | location      | http://bit.ly/Covid-Slack | |
+| [BlueTrace](https://bluetrace.io/) | code release pending | BLE | ??? | press release only, no code yet |
 
 
 ## Self-reported public database creation
@@ -39,6 +40,7 @@
 | Name and website link | Notes |
 |-----------------------|-------|
 | [Covapp](https://covapp.charite.de/) | Questionnaire in EN /DE, can be combined with app/database for self-reporting |
+| [Apple COVID-19 Watch](https://www.apple.com/newsroom/2020/03/apple-releases-new-covid-19-app-and-website-based-on-CDC-guidance/) | |
 
 
 ## Privacy-preserving matching
