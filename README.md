@@ -19,12 +19,15 @@
 | [DEGRAT](https://github.com/degregat/ppdt) | https://github.com/degregat/ppdt | BLE | ??? | | 
 | [Covid-FLutter](https://classworkdecjan.blogspot.com/2020/03/covid-project.html) | https://github.com/TheSciFiMed/Covid-FLutter | location      | http://bit.ly/Covid-Slack | |
 | [BlueTrace](https://bluetrace.io/) | code release pending | BLE | ??? | press release only, no code yet |
+| STRICT | (https://github.com/ito-org/STRICT) | BLE | | |
+| [Sygic](https://www.sygic.com/press/code-vs-corona-volunteers-and-developers-from-slovakia-are-offering-everyone-covid-19-app-for-free-as-open-source-software#) | | BLE | | |
 
 
 ## Self-reported public database creation
 
 | Name and website link | Notes |
 |-----------------------|-------|
+| [Apple](https://apps.apple.com/us/story/id1504771847) | |
 | [AITIA app](https://aitia.app/user/register#) |  |
 | [COVID-19 Track](https://covid-19-track.com/) |  | 
 | [COVID Symptom Tracker](https://covid.joinzoe.com/) | |
@@ -60,6 +63,7 @@
 | [Cuebiq](https://www.cuebiq.com/about/data-for-good/) | Italy | through "data for social good" program | 
 | [Cell tower companies?](https://twitter.com/nikete/status/1242820006938914822) | US | No additional details |
 | [NYTimes dataset](https://github.com/nytimes/covid-19-data) | US | Public dataset! Woo! |
+| [COVID-19 Mobility Data Network](https://www.covid19mobility.org/) | US | |
 
 ## Scholarly Publications and Other Research
 
