@@ -3,7 +3,7 @@
 - This site is a crowdsourced list of projects related to COVID-19 contact tracing using smartphones.
 - The goal of contact tracing is to identify the contacts of people who have tested positive for COVID-19 and to advise them to self-quarantine.
 - Large scale, highly accurate contact tracing could control the spread of epidemics and reduce the need for societal lockdowns.
-- There is another larger list in a [google doc](https://docs.google.com/document/d/16Kh4_Q_tmyRh0-v452wiul9oQAiTRj8AdZ5vcOJum9Y/edit?ts=5e801c37#). 
+- There is another larger list in a [google doc](https://docs.google.com/document/d/16Kh4_Q_tmyRh0-v452wiul9oQAiTRj8AdZ5vcOJum9Y/edit?ts=5e801c37#).
   Formed by the merging of Stop Covid Now's list, Corona Watch's and Mitra's. Please add projects there as well.
 
 
