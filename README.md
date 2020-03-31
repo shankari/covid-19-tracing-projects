@@ -20,8 +20,9 @@
 | [DEGRAT](https://github.com/degregat/ppdt) | https://github.com/degregat/ppdt | BLE | ??? | | 
 | [Covid-FLutter](https://classworkdecjan.blogspot.com/2020/03/covid-project.html) | https://github.com/TheSciFiMed/Covid-FLutter | location      | http://bit.ly/Covid-Slack | |
 | [BlueTrace](https://bluetrace.io/) | code release pending | BLE | ??? | press release only, no code yet |
-| STRICT | (https://github.com/ito-org/STRICT) | BLE | | |
+| STRICT | https://github.com/ito-org/STRICT | BLE | | |
 | [Sygic](https://www.sygic.com/press/code-vs-corona-volunteers-and-developers-from-slovakia-are-offering-everyone-covid-19-app-for-free-as-open-source-software#) | | BLE | | |
+| [CoronaTrace](https://www.coronatrace.org/) | https://github.com/Corona-Trace | BLE | https://corona-trace.github.io/ |
 
 
 ## Self-reported public database creation
