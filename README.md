@@ -67,6 +67,12 @@
 | [NYTimes dataset](https://github.com/nytimes/covid-19-data) | US | Public dataset! Woo! |
 | [COVID-19 Mobility Data Network](https://www.covid19mobility.org/) | US | |
 
+## Hardware
+
+| Name and Website link | Notes |
+|-----------------------|-------|
+| [Nordic Semiconductor / Accent Systems](https://www.nordicsemi.com//News/2020/03/Accent%20Systems%20Bluetooth%20wristband%20could%20help%20targeting%20those%20who%20may%20be%20infected%20by%20Covid19) | BLE wearable |
+
 ## Scholarly Publications and Other Research
 
 | Date | Title |
