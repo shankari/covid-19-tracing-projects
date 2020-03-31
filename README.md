@@ -9,6 +9,7 @@
 
 | Name and website link | github            | sensors used      | volunteer signup       | Notes |
 |-----------------------|-------------------|-------------------|------------------------|-------|
+| [COVID-APP](http://www.covid-app.de/) | ???? |       | http://www.covid-app.de/ | Privacy-preserving AI, Apheris AI collaborates w/ OpenMined |
 | [Infection Chain ](???) | ???? | QR code at shops and workplaces      | https://devpost.com/software/infection-chain | |
 | [Pandoa](https://pandoa.org/) | ???? | GPS      | https://devpost.com/software/08_pandoa-corona-virus-tracker | data on phone |
 | [BanDemic](http://bandemic.app/) | ???? | BLE      | https://bandemic.app/kontakt/ | Privacy aware, randomized keys, data on phone, protocol for integration into other apps |
