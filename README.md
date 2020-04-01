@@ -22,7 +22,9 @@
 | [BlueTrace](https://bluetrace.io/) | code release pending | BLE | ??? | press release only, no code yet |
 | STRICT | https://github.com/ito-org/STRICT | BLE | | |
 | [Sygic](https://www.sygic.com/press/code-vs-corona-volunteers-and-developers-from-slovakia-are-offering-everyone-covid-19-app-for-free-as-open-source-software#) | | BLE | | |
-| [CoronaTrace](https://www.coronatrace.org/) | https://github.com/Corona-Trace | BLE | https://corona-trace.github.io/ |
+| [CoronaTrace](https://www.coronatrace.org/) | https://github.com/Corona-Trace | GPS | https://corona-trace.github.io/ |
+| [NextTrace](https://nexttrace.org/) | | GPS, BLE | https://nexttrace.org/contact | [Launch Tweetstorm](https://twitter.com/trvrb/status/1245240645003833345) |
+| [Pan-European Privacy-Preserving Proximity Tracing](https://www.pepp-pt.org/) | | BLE | info@pepp-pt.org | |
 
 
 ## Self-reported public database creation
@@ -66,6 +68,12 @@
 | [Cell tower companies?](https://twitter.com/nikete/status/1242820006938914822) | US | No additional details |
 | [NYTimes dataset](https://github.com/nytimes/covid-19-data) | US | Public dataset! Woo! |
 | [COVID-19 Mobility Data Network](https://www.covid19mobility.org/) | US | |
+
+## Hardware
+
+| Name and Website link | Notes |
+|-----------------------|-------|
+| [Nordic Semiconductor / Accent Systems](https://www.nordicsemi.com//News/2020/03/Accent%20Systems%20Bluetooth%20wristband%20could%20help%20targeting%20those%20who%20may%20be%20infected%20by%20Covid19) | BLE wearable |
 
 ## Scholarly Publications and Other Research
 
