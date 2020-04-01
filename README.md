@@ -24,6 +24,7 @@
 | [Sygic](https://www.sygic.com/press/code-vs-corona-volunteers-and-developers-from-slovakia-are-offering-everyone-covid-19-app-for-free-as-open-source-software#) | | BLE | | |
 | [CoronaTrace](https://www.coronatrace.org/) | https://github.com/Corona-Trace | GPS | https://corona-trace.github.io/ |
 | [NextTrace](https://nexttrace.org/) | | GPS, BLE | https://nexttrace.org/contact | [Launch Tweetstorm](https://twitter.com/trvrb/status/1245240645003833345) |
+| [Pan-European Privacy-Preserving Proximity Tracing](https://www.pepp-pt.org/) | | BLE | info@pepp-pt.org | |
 
 
 ## Self-reported public database creation
