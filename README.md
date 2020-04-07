@@ -17,6 +17,7 @@ Other list projects:
 | Name and website link | github            | sensors used      | volunteer signup       | Notes |
 |-----------------------|-------------------|-------------------|------------------------|-------|
 | [One Tracking Framework](https://github.com/OneTrackingFramework) | https://github.com/OneTrackingFramework | | | |
+| [TrackCOVID](https://trackcovid.net/) | https://github.com/tyleryasaka/TrackCOVID | QR codes      | https://forms.gle/f6UEaRxA3CJXANTm7 | Privacy aware, web based app with no registration or download |
 | [Pandoa](https://pandoa.org/) | https://github.com/wirewirewirewire/pandoa | GPS  | https://devpost.com/software/08_pandoa-corona-virus-tracker | data on phone |
 | [**ito**](https://www.ito-app.org) | https://github.com/ito-org | BLE | https://start.ito-app.org | [formerly](https://twitter.com/BandemicApp/status/1247065639094816769) known as bluto, bandemic; privacy aware, randomized keys, data on phone, protocol for integration into other apps |
 | [**SafePaths**](http://safepaths.mit.edu/) | https://github.com/tripleblindmarket/covid-safe-paths | GPS | http://forms.gle/3fzhfJkq8kbF7uf89 | based on [PrivateKit](http://privatekit.mit.edu) |
