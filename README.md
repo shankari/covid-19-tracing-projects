@@ -39,7 +39,6 @@ Other list projects:
 | [covid19-contact-tracing](https://github.com/mbroecheler/covid19-contact-tracing) | https://github.com/mbroecheler/covid19-contact-tracing | agnostic | | Graph database backend |
 | [**Enigma SafeTrace**](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) | https://github.com/enigmampc/SafeTrace | agnostic | https://github.com/enigmampc/SafeTrace/blob/master/CONTRIBUTE.md | Privacy perserving matching |
 | [**OpenMined**](http://openmined.org) | https://github.com/OpenMined | agnostic |  | Privacy perserving matching; efforts split across several projects |
-| [DP-3T](https://github.com/DP-3T/documents) | https://github.com/DP-3T | BLE | | Design considerations for privacy preserving tracing |
 
 
 ## Specs, Calls and Whitepapers
@@ -49,6 +48,7 @@ Other list projects:
 | [COVID-APP](http://www.covid-app.de/) |  Privacy-preserving AI, Apheris AI collaborates w/ OpenMined |
 | [Privacy Preserving Disease Tracking](https://github.com/degregat/ppdt) |  | 
 | [10 requirements for the evaluation of 'Contact Tracing' apps](https://www.ccc.de/en/updates/2020/contact-tracing-requirements) | |
+| [DP-3T](https://github.com/DP-3T/documents) | https://github.com/DP-3T | BLE | | Design considerations for privacy preserving tracing |
 
 
 ## Self-reported public database creation
