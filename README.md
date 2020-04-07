@@ -71,8 +71,8 @@ Other list projects:
 | Name and website link | Notes |
 |-----------------------|-------|
 | [Covapp](https://covapp.charite.de/) | Questionnaire in EN /DE, can be combined with app/database for self-reporting |
-| [Apple COVID-19 Watch](https://www.apple.com/newsroom/2020/03/apple-releases-new-covid-19-app-and-website-based-on-CDC-guidance/) | |
-| [WHO App](https://github.com/WorldHealthOrganization/) | Unreleased |
+| [**Apple COVID-19 Watch**](https://www.apple.com/newsroom/2020/03/apple-releases-new-covid-19-app-and-website-based-on-CDC-guidance/) | |
+| [**WHO App**](https://github.com/WorldHealthOrganization/) | Unreleased |
 
 
 
