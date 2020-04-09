@@ -39,6 +39,7 @@ Other list projects:
 | [covid19-contact-tracing](https://github.com/mbroecheler/covid19-contact-tracing) | https://github.com/mbroecheler/covid19-contact-tracing | agnostic | | Graph database backend |
 | [**Enigma SafeTrace**](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) | https://github.com/enigmampc/SafeTrace | agnostic | https://github.com/enigmampc/SafeTrace/blob/master/CONTRIBUTE.md | Privacy perserving matching |
 | [**OpenMined**](http://openmined.org) | https://github.com/OpenMined | agnostic |  | Privacy perserving matching; efforts split across several projects |
+| CovidSafe | https://github.com/COVIDSAFE | BLE | | UW Project |
 
 
 ## Specs, Calls and Whitepapers
@@ -101,6 +102,10 @@ Other list projects:
 | 10 Feb | [Beyond R0: the important of contact tracing when predicting epidemics](https://arxiv.org/abs/2002.04004) |
 | 30 Mar | [Comparison of 4 mature German BLE-based tracking projects (in German)](https://linus-neumann.de/2020/03/corona-apps-sinn-und-unsinn-von-tracking/) |
 | 31 Mar | [Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing](https://science.sciencemag.org/content/early/2020/03/30/science.abb6936)|
+| 7 Apr | [PACT: Privacy Sensitive Protocols And Mechanisms for Mobile Contact Tracing](https://arxiv.org/pdf/2004.03544.pdf) |
+| 8 Apr | [Analysis of DP3T](https://eprint.iacr.org/2020/399.pdf) |
+| 8 Apr | [The PACT protocol specification](https://pact.mit.edu/wp-content/uploads/2020/04/The-PACT-protocol-specification-ver-0.1.pdf) |
+
 
 
 #### How can this site help?
