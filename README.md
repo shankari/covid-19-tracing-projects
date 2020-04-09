@@ -24,7 +24,7 @@ Other list projects:
 | [**CovidWatch**](https://www.covid-watch.org/) | https://github.com/covid19risk | BLE | https://www.covid-watch.org/collaborate | Uses [CEN Protocol](https://github.com/Co-Epi/CEN) |
 | [**CoEpi**](https://www.coepi.org) | https://github.com/Co-Epi | BLE | https://www.coepi.org/collaborations/ | Uses [CEN Protocol](https://github.com/Co-Epi/CEN) |
 | [Hamagen, Israel MOH](https://medium.com/proferosec-osm/hamagen-application-fighiting-the-corona-virus-4ecf55eb4f7c) | https://github.com/MohGovIL/hamagen-react-native/ | GPS | https://github.com/MohGovIL/hamagen-react-native/blob/master/CONTRIBUTING.md | |
-| [**BlueTrace**](https://bluetrace.io/) | [code release announced](https://www.cnbc.com/2020/03/25/coronavirus-singapore-to-make-contact-tracing-tech-open-source.html) | BLE | | aka. [**TraceTogether**](https://www.tracetogether.gov.sg), official aplication of Singapore's Ministry of Health |
+| [**BlueTrace**](https://bluetrace.io/) | https://github.com/opentrace-community | BLE | | aka. [**TraceTogether**](https://www.tracetogether.gov.sg), official aplication of Singapore's Ministry of Health |
 | [Covid World](https://www.sygic.com/press/code-vs-corona-volunteers-and-developers-from-slovakia-are-offering-everyone-covid-19-app-for-free-as-open-source-software) | https://github.com/CovidWorld | BLE | | |
 | [CoronaTrace](https://www.coronatrace.org/) | https://github.com/Corona-Trace | GPS | https://corona-trace.github.io/ |
 | [NextTrace](https://nexttrace.org/) | | GPS, BLE | https://nexttrace.org/contact |  |
