@@ -50,7 +50,7 @@ Other list projects:
 | [Privacy Preserving Disease Tracking](https://github.com/degregat/ppdt) |  | 
 | [10 requirements for the evaluation of 'Contact Tracing' apps](https://www.ccc.de/en/updates/2020/contact-tracing-requirements) | |
 | [DP-3T](https://github.com/DP-3T/documents) | https://github.com/DP-3T | BLE | | Design considerations for privacy preserving tracing |
-| [Apple and Google joint Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/) | https://www.apple.com/covid19/contacttracing/ | BLE | | Google and Apple are announcing a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of the virus, with user privacy and security central to the design. |
+| [Apple and Google joint Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/) | Google and Apple are announcing a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of the virus, with user privacy and security central to the design. | BLE | | |
 
 
 ## Self-reported public database creation
