@@ -40,6 +40,7 @@ Other list projects:
 | [**Enigma SafeTrace**](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) | https://github.com/enigmampc/SafeTrace | agnostic | https://github.com/enigmampc/SafeTrace/blob/master/CONTRIBUTE.md | Privacy perserving matching |
 | [**OpenMined**](http://openmined.org) | https://github.com/OpenMined | agnostic |  | Privacy perserving matching; efforts split across several projects |
 | CovidSafe | https://github.com/COVIDSAFE | BLE | | UW Project |
+| [**COVID Trace**](https://covidtrace.com) | https://github.com/covidtrace  | BLE, GPS | Scalable, privacy-preserving contact tracing |
 
 
 ## Specs, Calls and Whitepapers
