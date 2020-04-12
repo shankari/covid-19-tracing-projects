@@ -6,7 +6,7 @@ Large scale, highly accurate contact tracing could control the spread of epidemi
 
 Other list projects:
 - A larger list and some additional background can be found in this [google doc](https://docs.google.com/document/d/16Kh4_Q_tmyRh0-v452wiul9oQAiTRj8AdZ5vcOJum9Y/edit?ts=5e801c37#).
-  Formed by the merging of Stop Covid Now's list, Corona Watch's and Mitra's. 
+  Formed by the merging of Stop Covid Now's list, Corona Watch's and Mitra's.
   Please add projects there as well.
 
 
@@ -32,7 +32,7 @@ Other list projects:
 | [Contact Tracing App](https://contacttracing.app/) | https://github.com/ContactTracing-app | none | | Contacts are manually entered (?) |
 | [contact-tracer](https://github.com/ehidra/contact-tracer) | https://github.com/ehidra/contact-tracer | BLE |  | Multiple clients |
 | [PrivateTracer](https://gitlab.com/PrivateTracer) | https://gitlab.com/PrivateTracer | BLE | https://gitlab.com/PrivateTracer/coordination | (Official?) dutch project |
-| [Covi-id](https://coviid.me) | | | | Landing page only? | 
+| [Covi-id](https://coviid.me) | | | | Landing page only? |
 | [contact_tracing_covid19](https://github.com/vsnmtej/contact_tracing_covid19) | https://github.com/vsnmtej/contact_tracing_covid19 | BLE | | abandoned? |
 | [KeepDistance](https://github.com/manuelschlegel/code-vs-covid-19) | https://github.com/manuelschlegel/code-vs-covid-19 | BLE | | |
 | [hansel](https://gethansel.org) | https://github.com/gethansel/hansel | GPS | https://github.com/gethansel/hansel#getting-started | |
@@ -40,6 +40,8 @@ Other list projects:
 | [**Enigma SafeTrace**](https://blog.enigma.co/safetrace-privacy-preserving-contact-tracing-for-covid-19-c5ae8e1afa93) | https://github.com/enigmampc/SafeTrace | agnostic | https://github.com/enigmampc/SafeTrace/blob/master/CONTRIBUTE.md | Privacy perserving matching |
 | [**OpenMined**](http://openmined.org) | https://github.com/OpenMined | agnostic |  | Privacy perserving matching; efforts split across several projects |
 | CovidSafe | https://github.com/COVIDSAFE | BLE | | UW Project |
+| [Covid Community Alert](https://coronavirus-outbreak-control.github.io/web) | https://github.com/Coronavirus-Outbreak-Control | BLE | | iOS and Android apps |
+| [Coalition Network](https://www.coalitionnetwork.org/) | | BLE | | [Whisper Protocol, authors from Nodle.io](https://docsend.com/view/nis3dac) |
 
 
 ## Specs, Calls and Whitepapers
@@ -47,7 +49,7 @@ Other list projects:
 | Name | Notes |
 |------|-------|
 | [COVID-APP](http://www.covid-app.de/) |  Privacy-preserving AI, Apheris AI collaborates w/ OpenMined |
-| [Privacy Preserving Disease Tracking](https://github.com/degregat/ppdt) |  | 
+| [Privacy Preserving Disease Tracking](https://github.com/degregat/ppdt) |  |
 | [10 requirements for the evaluation of 'Contact Tracing' apps](https://www.ccc.de/en/updates/2020/contact-tracing-requirements) | |
 | [DP-3T](https://github.com/DP-3T/documents) | https://github.com/DP-3T | BLE | | Design considerations for privacy preserving tracing |
 | [Apple and Google joint Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/) | Google and Apple are announcing a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of the virus, with user privacy and security central to the design. | BLE | | |
@@ -59,13 +61,13 @@ Other list projects:
 |-----------------------|-------|
 | [Apple](https://apps.apple.com/us/story/id1504771847) | |
 | [AITIA app](https://aitia.app/user/register#) |  |
-| [COVID-19 Track](https://covid-19-track.com/) |  | 
+| [COVID-19 Track](https://covid-19-track.com/) |  |
 | [COVID Symptom Tracker](https://covid.joinzoe.com/) | |
 | [Coronastatus](https://github.com/BustByte/coronastatus) | Open source project, can be launched country by country |
 | [Corona data scraper](https://coronadatascraper.com/#home) | Scrapes from verified data sources |
 | [Fever map](https://gitlab.com/fevermap/fevermap/-/issues/1) | also has list of other similar projects, some of which are listed below |
 | [Sneeze map](https://sneezemap.com/) | Also incorporates data from other sources |
-| [Ghana health services app](https://play.google.com/store/apps/details?id=com.kt.gepp.and) | Ghana Ministry of Health | 
+| [Ghana health services app](https://play.google.com/store/apps/details?id=com.kt.gepp.and) | Ghana Ministry of Health |
 
 
 ## Self-Diagnostics and Treatment Recommendations by Public Health Authorties
@@ -83,7 +85,7 @@ Other list projects:
 | Name and website link | Location  | Notes |
 |-----------------------|-----------|-------|
 | [Unacast](https://www.washingtonpost.com/technology/2020/03/24/social-distancing-maps-cellphone-location/) | US |  |
-| [Cuebiq](https://www.cuebiq.com/about/data-for-good/) | Italy | through "data for social good" program | 
+| [Cuebiq](https://www.cuebiq.com/about/data-for-good/) | Italy | through "data for social good" program |
 | [Cell tower companies?](https://twitter.com/nikete/status/1242820006938914822) | US | No additional details |
 | [NYTimes dataset](https://github.com/nytimes/covid-19-data) | US | Public dataset! Woo! |
 | [COVID-19 Mobility Data Network](https://www.covid19mobility.org/) | US | |
@@ -124,7 +126,7 @@ This list of projects has two benefits:
   - please file an issue to begin the discussion
 - If you would like to help in maintaining this site
   - please file an issue expressing interest a link to your linkedin page
-  
+
 
 #### Privacy policy
 ------
