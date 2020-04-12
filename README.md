@@ -104,6 +104,7 @@ Other list projects:
 | 30 Mar | [Comparison of 4 mature German BLE-based tracking projects (in German)](https://linus-neumann.de/2020/03/corona-apps-sinn-und-unsinn-von-tracking/) |
 | 31 Mar | [Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing](https://science.sciencemag.org/content/early/2020/03/30/science.abb6936)|
 | 7 Apr | [PACT: Privacy Sensitive Protocols And Mechanisms for Mobile Contact Tracing](https://arxiv.org/pdf/2004.03544.pdf) |
+| 7 Apr | [Peer-to-Peer Contact Tracing: Development of a Privacy-Preserving Smartphone App](http://doi.org/10.2196/18936) |
 | 8 Apr | [Analysis of DP3T](https://eprint.iacr.org/2020/399.pdf) |
 | 8 Apr | [The PACT protocol specification](https://pact.mit.edu/wp-content/uploads/2020/04/The-PACT-protocol-specification-ver-0.1.pdf) |
 
