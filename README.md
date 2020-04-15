@@ -42,6 +42,7 @@ Other list projects:
 | CovidSafe | https://github.com/COVIDSAFE | BLE | | UW Project |
 | [Covid Community Alert](https://coronavirus-outbreak-control.github.io/web) | https://github.com/Coronavirus-Outbreak-Control | BLE | | iOS and Android apps |
 | [Coalition Network](https://www.coalitionnetwork.org/) | | BLE | | [Whisper Protocol, authors from Nodle.io](https://docsend.com/view/nis3dac) |
+| [**COVID Trace**](https://covidtrace.com) | https://github.com/covidtrace  | BLE, GPS | Scalable, privacy-preserving contact tracing |
 
 
 ## Specs, Calls and Whitepapers
