@@ -43,6 +43,9 @@ Other list projects:
 | [Covid Community Alert](https://coronavirus-outbreak-control.github.io/web) | https://github.com/Coronavirus-Outbreak-Control | BLE | | iOS and Android apps |
 | [Coalition Network](https://www.coalitionnetwork.org/) | | BLE | | [Whisper Protocol, authors from Nodle.io](https://docsend.com/view/nis3dac) |
 | [**COVID Trace**](https://covidtrace.com) | https://github.com/covidtrace  | BLE, GPS | Scalable, privacy-preserving contact tracing |
+| **DP-3T** | https://github.com/DP-3T | BLE | https://github.com/DP-3T | Decentralized Privacy-Preserving Proximity Tracing |
+| [**OpenCOVIDTrace**](https://opencovidtrace.org/) | https://github.com/OpenCovidTrace | BLE, GPS, QR codes | https://github.com/OpenCovidTrace | Fully private open source Contact Tracing |
+
 
 
 ## Specs, Calls and Whitepapers
