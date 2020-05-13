@@ -45,7 +45,7 @@ Other list projects:
 | [**COVID Trace**](https://covidtrace.com) | https://github.com/covidtrace  | BLE, GPS | Scalable, privacy-preserving contact tracing |
 | **DP-3T** | https://github.com/DP-3T | BLE | https://github.com/DP-3T | Decentralized Privacy-Preserving Proximity Tracing |
 | [**OpenCOVIDTrace**](https://opencovidtrace.org/) | https://github.com/OpenCovidTrace | BLE, GPS, QR codes | https://github.com/OpenCovidTrace | Fully private open source Contact Tracing |
-
+| [**CovidTracer**](https://github.com/RaphaelJ/covid-tracer) | https://github.com/RaphaelJ/covid-tracer | BLE | | Fully functioning opensource app |
 
 
 ## Specs, Calls and Whitepapers
