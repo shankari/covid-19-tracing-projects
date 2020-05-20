@@ -114,6 +114,7 @@ Other list projects:
 | 7 Apr | [Peer-to-Peer Contact Tracing: Development of a Privacy-Preserving Smartphone App](http://doi.org/10.2196/18936) |
 | 8 Apr | [Analysis of DP3T](https://eprint.iacr.org/2020/399.pdf) |
 | 8 Apr | [The PACT protocol specification](https://pact.mit.edu/wp-content/uploads/2020/04/The-PACT-protocol-specification-ver-0.1.pdf) |
+| 5 May | [ACM Europe TPC Statement on Principles, Practices for COVID-19 Contact Tracing Applications](https://www.acm.org/binaries/content/assets/public-policy/europe-tpc-contact-tracing-statement.pdf) |
 
 
 
