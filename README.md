@@ -99,6 +99,7 @@ Other list projects:
 
 | Name and Website link | Notes |
 |-----------------------|-------|
+| [Epidose](https://github.com/dspinellis/epidose) |  Reference implementation of the [DP-3T protocols](https://github.com/DP-3T/documents) on a [Raspberry Pi Zero-W](https://www.raspberrypi.org/products/raspberry-pi-zero/) |
 | [Nordic Semiconductor / Accent Systems](https://www.nordicsemi.com//News/2020/03/Accent%20Systems%20Bluetooth%20wristband%20could%20help%20targeting%20those%20who%20may%20be%20infected%20by%20Covid19) | BLE wearable |
 
 ## Scholarly Publications and Other Research
