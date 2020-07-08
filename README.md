@@ -16,6 +16,7 @@ Other list projects:
 
 | Name and website link | github            | sensors used      | volunteer signup       | Notes |
 |-----------------------|-------------------|-------------------|------------------------|-------|
+| [C19X](https://www.c19x.org) | https://github.com/c19x | BLE | | Decentralised privacy-preserving contact tracing without relying on Google+Apple API. Android and iOS Bluetooth beacon that works indefinitely in background. |
 | [Corona-Warn-App](https://github.com/corona-warn-app) | https://github.com/corona-warn-app | BLE | | Official app for Germany; influenced by the [TCN](https://github.com/TCNCoalition/TCN) and [DP-3T](https://github.com/DP-3T/documents) protocols; currently only documentation |
 | [One Tracking Framework](https://github.com/OneTrackingFramework) | https://github.com/OneTrackingFramework | | | |
 | [TrackCOVID](https://trackcovid.net/) | https://github.com/tyleryasaka/TrackCOVID | QR codes      | https://forms.gle/f6UEaRxA3CJXANTm7 | Privacy aware, web based app with no registration or download |
