@@ -1,3 +1,8 @@
+**California is ending its COVID emergency this month; the US plans to do so in May 2023. This repo is no longer relevant and is being archived.**
+
+---------------
+
+
 [![Check Markdown links](https://github.com/shankari/covid-19-tracing-projects/workflows/Check%20Markdown%20links/badge.svg)](https://github.com/marketplace/actions/markdown-link-check)
 
 This site is a crowdsourced list of projects related to **COVID-19 contact tracing using smartphones**.
